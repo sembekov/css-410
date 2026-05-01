@@ -6,6 +6,9 @@
 ## Project Overview
 This project implements and compares four machine learning models to predict customer churn in the telecommunications industry. It includes data generation, model training, evaluation, business ROI calculation, and a deployable prediction function.
 
+
+**For thesis evaluation: Please see the [`/docs`](./docs) folder for the complete thesis PDF, results figures, and performance data.**
+
 ## Models Implemented
 - Logistic Regression (baseline)
 - Random Forest
@@ -22,11 +25,11 @@ This project implements and compares four machine learning models to predict cus
 ## Files in this Repository
 - `churn_prediction_project.py` - Main project code
 - `requirements.txt` - Python dependencies
-- `install_and_run.bat` - Windows setup script
-- `install_and_run.sh` - Mac/Linux setup script
+- `installation.bat` - Windows setup script
+- `installation.sh` - Mac/Linux setup script
 
 ## Results Summary
-![Results](results.png)
+![Results](docs/results.png)
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |-------|----------|-----------|--------|----------|---------|
@@ -46,6 +49,9 @@ This project implements and compares four machine learning models to predict cus
 2. Create new notebook
 3. Copy code from `churn_prediction_project.py`
 4. Run all cells
+
+**Or view pre-run results here:**  
+[Click to Open Colab with Results](https://colab.research.google.com/drive/1zBXJOauNUjOJKvsTu6q0iW4JN_APIF-m?usp=sharing)
 
 ## Installation
 
