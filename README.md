@@ -49,12 +49,6 @@ This project implements and compares four machine learning models to predict cus
 
 ## Installation
 
-**Author:** Sayat Sembekov | 230107003@sdu.edu.kz  
-**Supervisor:** Dr. Selcuk Cankurt
-
-## Project Overview
-This thesis implements and compares machine learning models (Logistic Regression, Random Forest, XGBoost) to predict customer churn in the telecommunications industry, with ROI analysis for retention campaigns.
-
 ### Option 2: Local Python (Python 3.11 recommended)
 
 #### Windows
